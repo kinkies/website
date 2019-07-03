@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel xmlns:atom="http://www.w3.org/2005/Atom">
+    <title><![CDATA[www.kinkies.de Blog Feed]]></title>
+    <link>https://www.kinkies.de/</link>
+    <description><![CDATA[Blog - Wir sind der Elterninitiativ-Kinderladen »Die Kinkies« e.V.]]></description>
+    <pubDate>Wed, 03 Jul 2019 12:31:21 +0200</pubDate>
+    <generator>Jimdo_Feed</generator>
+    <language>de-de</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://www.kinkies.de/rss/blog" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[No feed items at the moment]]></title>
+      <link>https://www.kinkies.de/</link>
+      <guid>https://www.kinkies.de/</guid>
+      <description><![CDATA[.]]></description>
+      <pubDate>Wed, 03 Jul 2019 12:31:21 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
