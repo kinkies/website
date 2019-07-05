@@ -1,0 +1,145 @@
+/* ownbackground */
+.body { background:#FFFFFF }
+/* shop */
+/* Variables Siteadmin - Style - Shop
+----------------------------------------------- */
+
+a.cc-shop-addtocard,
+a.cc-shop-addtocard:visited,
+input.cc-checkout-btn
+{
+    color: #F1F1F1 !important;
+    background-color: #123D6D !important;
+    font-size: 11px !important;
+}
+
+a.cc-shop-addtocard:hover,
+input.cc-checkout-btn:hover
+{
+    color: #F1F1F1 !important;
+    background-color: #0F2E53 !important;
+}
+
+a.cc-addtocard-disabled:hover { background-color: #123D6D !important;}
+
+.cc-shop-price
+{
+    color: #990000 !important;
+    font-size: 18px !important;
+}
+
+.cc-shop-product-price-old {
+    color: #808080 !important;
+    font-size: 12px !important;
+}
+
+.cc-catalog-price-old {
+    color: #808080 !important;
+}
+
+div.cc-catalog-galleryview div.cc-webview-product-price strong,
+div.cc-catalog-listview div.cc-webview-product-price strong,
+div.cc-catalog-sliderview div.cc-webview-product-price strong
+{
+    color: #990000 !important;
+}
+
+div#cc-checkout-variant-1 a,
+div#cc-checkout-variant-1 div.cc-checkout-step1 div.cc-progress-step1,
+div#cc-checkout-variant-1 div.cc-checkout-step2 div.cc-progress-step1,
+div#cc-checkout-variant-1 div.cc-checkout-step2 div.cc-progress-step2,
+div#cc-checkout-variant-1 div.cc-checkout-step3 div.cc-progress-step1,
+div#cc-checkout-variant-1 div.cc-checkout-step3 div.cc-progress-step2,
+div#cc-checkout-variant-1 div.cc-checkout-step3 div.cc-progress-step3,
+div#cc-checkout-variant-1 div.cc-checkout-step4 div.cc-progress-step1,
+div#cc-checkout-variant-1 div.cc-checkout-step4 div.cc-progress-step2,
+div#cc-checkout-variant-1 div.cc-checkout-step4 div.cc-progress-step3,
+div#cc-checkout-variant-1 div.cc-checkout-step4 div.cc-progress-step4,
+
+div#cc-checkout-variant-4 a,
+div#cc-checkout-variant-4 div.cc-checkout-step1 div.cc-progress-step1 span,
+div#cc-checkout-variant-4 div.cc-checkout-step2 div.cc-progress-step1 span,
+div#cc-checkout-variant-4 div.cc-checkout-step2 div.cc-progress-step2 span,
+div#cc-checkout-variant-4 div.cc-checkout-step3 div.cc-progress-step1 span,
+div#cc-checkout-variant-4 div.cc-checkout-step3 div.cc-progress-step2 span,
+div#cc-checkout-variant-4 div.cc-checkout-step3 div.cc-progress-step3 span,
+div#cc-checkout-variant-4 div.cc-checkout-step4 div.cc-progress-step1 span,
+div#cc-checkout-variant-4 div.cc-checkout-step4 div.cc-progress-step2 span,
+div#cc-checkout-variant-4 div.cc-checkout-step4 div.cc-progress-step3 span,
+div#cc-checkout-variant-4 div.cc-checkout-step4 div.cc-progress-step4 span
+{
+    color: #000000 !important;
+}
+
+div#cc-checkout-variant-2 div.cc-checkout-step1 div.cc-progress-step1,
+div#cc-checkout-variant-2 div.cc-checkout-step2 div.cc-progress-step1,
+div#cc-checkout-variant-2 div.cc-checkout-step3 div.cc-progress-step1,
+div#cc-checkout-variant-2 div.cc-checkout-step4 div.cc-progress-step1,
+div#cc-checkout-variant-2 div.cc-checkout-step2 div.cc-progress-step2,
+div#cc-checkout-variant-2 div.cc-checkout-step3 div.cc-progress-step2,
+div#cc-checkout-variant-2 div.cc-checkout-step4 div.cc-progress-step2,
+div#cc-checkout-variant-2 div.cc-checkout-step3 div.cc-progress-step3,
+div#cc-checkout-variant-2 div.cc-checkout-step4 div.cc-progress-step3,
+div#cc-checkout-variant-2 div.cc-checkout-step4 div.cc-progress-step4,
+
+div#cc-checkout-variant-3 div.cc-checkout-step1 div.cc-progress-step1,
+div#cc-checkout-variant-3 div.cc-checkout-step2 div.cc-progress-step1,
+div#cc-checkout-variant-3 div.cc-checkout-step3 div.cc-progress-step1,
+div#cc-checkout-variant-3 div.cc-checkout-step4 div.cc-progress-step1,
+div#cc-checkout-variant-3 div.cc-checkout-step2 div.cc-progress-step2,
+div#cc-checkout-variant-3 div.cc-checkout-step3 div.cc-progress-step2,
+div#cc-checkout-variant-3 div.cc-checkout-step4 div.cc-progress-step2,
+div#cc-checkout-variant-3 div.cc-checkout-step3 div.cc-progress-step3,
+div#cc-checkout-variant-3 div.cc-checkout-step4 div.cc-progress-step3,
+div#cc-checkout-variant-3 div.cc-checkout-step4 div.cc-progress-step4
+{
+    background-color: #000000 !important;
+}
+
+/* datepicker */
+
+/* Datesticker
+--------------------------------------------------------- */
+
+/* C1 as Background */
+div.datetime.dt-style1,
+div.datetime.dt-style2,
+div.datetime.dt-style3,
+div.datetime.dt-style4,
+div.datetime.dt-style6 .datetime-inner
+{
+    background: #0099EE !important;
+}
+
+/* C1 as Color */
+div.datetime.dt-style7 p.day,
+div.datetime.dt-style8 p.day,
+div.datetime.dt-style10 p
+{
+    color: #0099EE !important;
+}
+
+/* C2 as Color */
+div.datetime.dt-style1 p,
+div.datetime.dt-style2 p,
+div.datetime.dt-style3 p,
+div.datetime.dt-style4 p,
+div.datetime.dt-style5 p,
+div.datetime.dt-style6 p,
+div.datetime.dt-style7 p,
+div.datetime.dt-style8 p
+{
+    color: #0099EE !important;
+}
+
+/* C1 as Border-Bottom */
+div.datetime.dt-style5,
+div.datetime.dt-style6
+{
+    border-bottom: 1px solid #0099EE !important;
+}
+
+/* Various */
+div.datetime.dt-style7.dt-alignment-left { border-right: 1px solid #0099EE !important; }
+div.datetime.dt-style7.dt-alignment-right { border-left: 1px solid #0099EE !important; }
+div.datetime.dt-style8 p.day { border-right: 1px solid #0099EE !important; }
