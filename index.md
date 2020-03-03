@@ -21,11 +21,14 @@ Unsere Adresse lautet:
 
 Der Kinderladen hat wochentags geöffnet von 8:00 bis 16:30 Uhr.
 
-## Mitteilung vom 9. Juli 2019
+## Mitteilung vom 16. Januar 2020
 
-Liebe Eltern, wir verfügen momentan leider über keine freien Plätze!
+Liebe Eltern, wir haben einen freien Platz zu vergeben für ein Kind geboren 01.10.2015 - 30.09.2016!
 
-Wir suchen aber immer wieder nach Honorarkräften, die in Krankheitsfällen oder
+Kontaktieren Sie uns gerne per Mail an <vorstand.kinkies@gmail.com> wenn Ihr Kind in diesem Zeitraum geboren wurde.
+
+
+Wir suchen auch immer wieder nach Honorarkräften, die in Krankheitsfällen oder
 ähnlichem bei uns aushelfen können. Bei Interesse schicken Sie bitte eine Mail
 an <vorstand.kinkies@gmail.com>.
 
