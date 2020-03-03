@@ -21,9 +21,9 @@ Unsere Adresse lautet:
 
 Der Kinderladen hat wochentags geöffnet von 8:00 bis 16:30 Uhr.
 
-## Mitteilung vom 16. Januar 2020
+## Mitteilung vom 03.03.2020
 
-Liebe Eltern, wir haben einen freien Platz zu vergeben für ein Kind geboren 01.10.2015 - 30.09.2016!
+Liebe Eltern, wir haben einen freien Platz zu vergeben für ein Kind geboren 01.10.2014 - 31.09.2015.
 
 Kontaktieren Sie uns gerne per Mail an <vorstand.kinkies@gmail.com> wenn Ihr Kind in diesem Zeitraum geboren wurde.
 
@@ -42,7 +42,7 @@ Dabei können wir unseren Laden aber auch aktiv mitgestalten. Neben regelmäßig
 anfallenden Arbeiten für die Eltern sind im Kinderladen verschiedene Ämter zu
 besetzten, die jährlich neu vergeben werden
 
-Bei uns arbeiten drei Erzieherinnen, unterstützt von mindestens einer
+Bei uns arbeiten fünf Erzieherinnen, unterstützt von mindestens einer
 FSJ-Kraft.
 
 Für das leibliche Wohl sorgen eine Köchin und eine Küchengehilfin mit
@@ -59,7 +59,7 @@ Bewegungsraum.
 
 ![](werkecke.jpg)
 
-In unserer pädagogischen Arbeit wollen wir die Kinder als individuelle Persönlichkeiten wahr- und ernstnehmen. Dies gelingt uns am besten, wenn wir auf die unterschiedlichen Lebenssituationen, die Interessen und die Bedürfnisse der einzelnen Kinder eingehen und sie zugleich in die Gruppe einbringen. Für die Gestaltung unseres Alltages lehnen wir uns an das Berliner Bildungsprogramm. Die Konzepte Montessori helfen uns dabei, die Kinder beim Spielen und Erkunden sein zu lassen und nicht formen zu wollen.
+In unserer pädagogischen Arbeit wollen wir die Kinder als individuelle Persönlichkeiten wahr- und ernstnehmen. Dies gelingt uns am besten, wenn wir auf die unterschiedlichen Lebenssituationen, die Interessen und die Bedürfnisse der einzelnen Kinder eingehen und sie zugleich in die Gruppe einbringen. Wir arbeiten nach dem situationsorientierten Ansatz und dem Berliner Bildungsprogramm. Die Konzepte Montessori helfen uns dabei, die Kinder beim Spielen und Erkunden sein zu lassen und nicht formen zu wollen.
 
 ## Was wir unternehmen
 
