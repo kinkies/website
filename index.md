@@ -21,15 +21,14 @@ Unsere Adresse lautet:
 
 Der Kinderladen hat wochentags geöffnet von 8:00 bis 16:30 Uhr.
 
-## Mitteilung vom 03.03.2020
+## Mitteilung vom 06.03.2020
 
-Liebe Eltern, wir haben einen freien Platz zu vergeben für ein Kind geboren 01.10.2014 - 31.09.2015.
-
-Kontaktieren Sie uns gerne per Mail an <vorstand.kinkies@gmail.com> wenn Ihr Kind in diesem Zeitraum geboren wurde.
-
+Liebe Eltern, wir haben ab Juni zwei Betreuungsplätze zu vergeben!
+Einen Platz für ein Kind geboren 01.10.2014 - 31.09.2015, den anderen für ein Kind geboren 01.10.2015 - 31.09.2016.
+Kontaktiert uns gerne per Mail an <vorstand.kinkies@gmail.com> wenn euer Kind innerhalb dieser zwei Jahre geboren wurde.
 
 Wir suchen auch immer wieder nach Honorarkräften, die in Krankheitsfällen oder
-ähnlichem bei uns aushelfen können. Bei Interesse schicken Sie bitte eine Mail
+ähnlichem bei uns aushelfen können. Bei Interesse schickt  bitte eine Mail
 an <vorstand.kinkies@gmail.com>.
 
 ## Wir sind die Kinkies
