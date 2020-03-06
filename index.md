@@ -24,6 +24,7 @@ Der Kinderladen hat wochentags geöffnet von 8:00 bis 16:30 Uhr.
 ## Mitteilung vom 06.03.2020
 
 Liebe Eltern, wir haben ab Juni zwei Betreuungsplätze zu vergeben!
+
 Einen Platz für ein Kind geboren 01.10.2014 - 31.09.2015, den anderen für ein Kind geboren 01.10.2015 - 31.09.2016.
 Kontaktiert uns gerne per Mail an <vorstand.kinkies@gmail.com> wenn euer Kind innerhalb dieser zwei Jahre geboren wurde.
 
