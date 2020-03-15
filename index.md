@@ -1,7 +1,6 @@
 ---
 pagetitle: EKT »Die Kinkies« e.V.
 css: local.css
-date: 9. Juli 2019
 lang: de-DE
 ---
 
