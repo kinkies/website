@@ -3,9 +3,10 @@
 Die Quellen der Webseite verwenden das Format
 [Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown)
 in der erweiterten Variante von `pandoc`. Die
-entsprechenden HTML-Seiten können mit dem
-Kommando
+entsprechenden HTML-Seiten können mit den
+Kommandos
 
-    $ pandoc -o index.html --standalone index.md
+    $ pandoc --standalone index.md -o index.html
+    $ pandoc --standalone --from=markdown+smart mv.md -o mv.html
 
 erzeugt werden.
