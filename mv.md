@@ -9,7 +9,7 @@ lang: de-DE
 ## Jährliche Mitgliederversammlung
 
 Die Mitgliederversammlung 2020 findet am Mittwoch den **18. März 2020** ab
-**19:00 Uhr** über das Videokonferenzsystem [Zoom](https://zoom.us/) statt.
+**20:30 Uhr** über das Videokonferenzsystem [Zoom](https://zoom.us/) statt.
 
 Unser virtueller Konferenzraum hat eine eindeutige Kennung und ein Passwort,
 das Ihr eventuell braucht:
