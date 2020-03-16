@@ -11,11 +11,6 @@ lang: de-DE
 Die Mitgliederversammlung 2020 findet am Mittwoch den **18. März 2020** ab
 **19:00 Uhr** über das Videokonferenzsystem [Zoom](https://zoom.us/) statt.
 
-Weiterhin gibt es **heute Abend** (15. März) ab **20:30 Uhr** ein zwangloses
-"Test-Meeting", das genuntzt werden kann, um den Zugang zur Videokonferenz
-auszuprobieren, sich mit der Software vertraut zu machen und um vorab ein
-bisschen zu quatschen.
-
 Unser virtueller Konferenzraum hat eine eindeutige Kennung und ein Passwort,
 das Ihr eventuell braucht:
 
