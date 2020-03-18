@@ -65,15 +65,12 @@ ist.
 ### Zugang per Web-Browser
 
 Zoom unterstützt Google Chrome und Microsoft Edge auf den Betriebssystemen
-Linux, Apple Darwin und Windows. Klickt einfach auf den folgenden
-Einladungs-Link:
+Linux, Apple Darwin und Windows. Geht bitte auf die folgende Seite:
 
-> <https://zoom.us/j/324472163?pwd=SzNxeEV3MHFrbTBDTHFDM3pyL3hCUT09>
+> <https://zoom.us/wc/join/324472163>
 
-Klickt dann auf den Link "click here to launch the meeting". Daraufhin
-erscheint darunter ein neuer Link "join from your browser". Wählt den bitte an.
-Daraufhin werdet Ihr nach der Meeting-Id (324472163) und dem Passwort (635524)
-gefragt. Wenn Ihr die richtig eingegeben habt, dann geht es los.
+Daraufhin fragt Euch die Webseite nach dem Passwort (635524) und nach Eurem
+Namen. Wenn Ihr die Daten eingegeben habt, dann geht es los.
 
 ### Zugang per Zoom-Client
 
