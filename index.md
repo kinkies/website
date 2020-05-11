@@ -20,14 +20,14 @@ Unsere Adresse lautet:
 
 Der Kinderladen hat wochentags geöffnet von 8:00 bis 16:30 Uhr.
 
-## Mitteilung vom 06.03.2020
+## Mitteilung vom 11.05.2020
 
-Liebe Eltern, wir haben ab Juni zwei Betreuungsplätze zu vergeben!
+Liebe Eltern,
+ 
+wir haben für das kommende Kitajahr 2020/2021 keine freien Plätze.
+Bitte seht von Initiativbewerbungen ab. Ob es Kapazitäten gibt, erfahrt ihr hier oder über den Kitanavigator.
 
-Einen Platz für ein Kind geboren 01.10.2014 - 31.09.2015, den anderen für ein Kind geboren 01.10.2015 - 31.09.2016.
-Kontaktiert uns gerne per Mail an <vorstand.kinkies@gmail.com> wenn euer Kind innerhalb dieser zwei Jahre geboren wurde.
-
-Wir suchen auch immer wieder nach Honorarkräften, die in Krankheitsfällen oder
+Wir suchen immer wieder nach Honorarkräften, die in Krankheitsfällen oder
 ähnlichem bei uns aushelfen können. Bei Interesse schickt  bitte eine Mail
 an <vorstand.kinkies@gmail.com>.
 
@@ -36,7 +36,7 @@ an <vorstand.kinkies@gmail.com>.
 ![](lupenbecher.jpg)
 
 Unser Kinderladen braucht Elternarbeit. Ohne sie kann er schon deshalb nicht
-existieren, weil die im Verein organisierten Eltern den Kinderladen tragen.
+existieren, weil die im Verein > Eltern den Kinderladen tragen.
 Dabei können wir unseren Laden aber auch aktiv mitgestalten. Neben regelmäßig
 anfallenden Arbeiten für die Eltern sind im Kinderladen verschiedene Ämter zu
 besetzten, die jährlich neu vergeben werden
