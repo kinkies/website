@@ -20,12 +20,6 @@ Unsere Adresse lautet:
 
 Der Kinderladen hat wochentags geöffnet von 8:00 bis 16:30 Uhr.
 
-## Mitteilung vom 11.05.2020
-
-Liebe Eltern,
- 
-wir haben für das kommende Kitajahr 2020/2021 keine freien Plätze.
-Bitte seht von Initiativbewerbungen ab. Ob es Kapazitäten gibt, erfahrt ihr hier oder über den Kitanavigator.
 
 Wir suchen immer wieder nach Honorarkräften, die in Krankheitsfällen oder
 ähnlichem bei uns aushelfen können. Bei Interesse schickt  bitte eine Mail
@@ -66,11 +60,6 @@ Neben dem täglichen Angebot aus den unterschiedlichen Spielmöglichkeiten, die
 der Laden bietet, gibt es eine Reihe von Aktivitäten, die den Kindern von den
 Erzieherinnen als Angebot gemacht werden:
 
-* Musikalische Früherziehung: Einmal in der Woche gehen die großen Kinder zur
-  musikalischen Früherziehung der Musikschule Neukölln.
-
-* Sport und Bewegung: Jeden zweiten Freitag gehen die Kinder zum Kinderturnen
-  in den TiB am Columbiadamm.
 
 * Kochen und Backen: Jeden zweiten Freitag kochen die Kinder im Kinderladen.
 
