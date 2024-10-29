@@ -17,6 +17,7 @@ Unsere Adresse lautet:
 > EKT »Die Kinkies« e.V. \
 > Weisestr. 4 \
 > 12049 Berlin-Neukölln \
+> Tel.: 030 89655951
 
 Der Kinderladen hat wochentags geöffnet von 8:00 bis 16:30 Uhr.
 
@@ -52,10 +53,10 @@ Bewegungsraum.
 
 ![](werkecke.jpg)
 
-In unserer pädagogischen Arbeit wollen wir die Kinder als individuelle Persönlichkeiten wahr- und ernstnehmen. Dies gelingt uns am besten, wenn wir auf die unterschiedlichen Lebenssituationen, die Interessen und die Bedürfnisse der einzelnen Kinder eingehen und sie zugleich in die Gruppe einbringen. Wir arbeiten nach dem situationsorientierten Ansatz und dem Berliner Bildungsprogramm. Die Konzepte Montessori helfen uns dabei, die Kinder beim Spielen und Erkunden sein zu lassen und nicht formen zu wollen.
+In unserer pädagogischen Arbeit wollen wir die Kinder als individuelle Persönlichkeiten wahr- und ernstnehmen. Dies gelingt uns am besten, wenn wir auf die unterschiedlichen Lebenssituationen, die Interessen und die Bedürfnisse der einzelnen Kinder eingehen und sie zugleich in die Gruppe einbringen. Wir arbeiten nach dem situationsorientierten Ansatz und dem Berliner Bildungsprogramm.
 
 ## Was wir unternehmen
-
+ 
 Neben dem täglichen Angebot aus den unterschiedlichen Spielmöglichkeiten, die
 der Laden bietet, gibt es eine Reihe von Aktivitäten, die den Kindern von den
 Erzieherinnen als Angebot gemacht werden:
