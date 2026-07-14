@@ -29,7 +29,7 @@ Wir suchen immer wieder nach Honorarkräften, die in Krankheitsfällen oder
 
 ![Kunst](kunst.jpg)\
 
-Wir betreuen Kinder zwischen 17 Monaten und 6 Jahren und unser pädagogisches Team besteht aktuell aus 4 Erzieherinnen, sowie einer Erzieherin als Quereinsteigerin, einer Erzieherin in Ausbildung und einer Köchin. Außerdem unterstützen uns bei Bedarf unsere tollen Honorarkräfte.
+Wir betreuen Kinder von 1 bis 6 Jahren und unser pädagogisches Team besteht aktuell aus 4 Erzieherinnen, sowie einer Erzieherin als Quereinsteigerin, einer Erzieherin in Ausbildung und einer Köchin. Außerdem unterstützen uns bei Bedarf unsere tollen Honorarkräfte.
 
 Die Betreuung bei den Kinkies zeichnet sich durch einen besonders guten Betreuungsschlüssel aus, welcher es unseren Erzieherinnen ermöglicht, auf die individuellen Bedürfnisse der Kinder einzugehen und z.B. regulär Aktivitäten nach Wunsch der Kinder in kleinen Gruppen anzubieten. 
 
